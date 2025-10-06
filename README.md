@@ -1,7 +1,7 @@
 # 🏢 Companies Directory
 
 A modern and responsive **React + TypeScript** application to browse, filter, and sort a list of companies.  
-Built with **React Query**, **Axios**, and **Tailwind CSS**, following clean architecture and component reusability best practices.
+Built with **React Query** and **Material UI**, following clean architecture and component reusability best practices.
 
 ---
 
