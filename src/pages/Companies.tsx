@@ -4,10 +4,7 @@ import { Company } from "../types/company";
 import Loader from "../components/Loader";
 import CompanyCard from "../components/CompanyCard/CompanyCard";
 import { SearchInput, DropdownFilter } from "../components/Filters";
-import Pagination from "@mui/material/Pagination";
-import Box from "@mui/material/Box";
-import Select from "@mui/material/Select";
-import MenuItem from "@mui/material/MenuItem";
+import { Pagination, Box, Select, MenuItem } from "@mui/material";
 import { useDebounce } from "../hooks/useCompanies";
 import { STRINGS } from "../constants/strings";
 

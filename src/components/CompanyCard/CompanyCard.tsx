@@ -1,9 +1,6 @@
 import React from "react";
 import { Company } from "../../types/company";
-import Card from "@mui/material/Card";
-import CardContent from "@mui/material/CardContent";
-import Typography from "@mui/material/Typography";
-import Link from "@mui/material/Link";
+import { Card, CardContent, Link, Typography } from "@mui/material";
 
 interface Props {
   company: Company;
